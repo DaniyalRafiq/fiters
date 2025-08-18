@@ -63,6 +63,8 @@
     <!-- Website JS -->
     <script src="assets/js/jquery.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.10.2/umd/popper.min.js"></script>
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
     <script src="assets/js/bootstrap.min.js"></script>
     <!-- Slick Carousel JS-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>

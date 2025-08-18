@@ -37,31 +37,12 @@ $page = basename($_SERVER['PHP_SELF'], '.php');
                             <li><a class="dropdown-item" href="#">Service 4</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php if ($page == '#') {
-                                                echo 'active';
-                                            } ?>" href="#">
-                            Pricing
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php if ($page == '#') {
-                                                echo 'active';
-                                            } ?>" href="#">
-                            Blog
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php if ($page == '#') {
-                                                echo 'active';
-                                            } ?>" href="#">
-                            Contact Us
-                        </a>
-                    </li>
+        
+
                 </ul>
             </div>
             <div class="my-2 my-lg-0 d-xl-block d-none">
-                <a href="#" class="btn btn-theme">Get Started</a>
+                <a href="#" class="btn btn-theme">Contact Us</a>
             </div>
         </div>
     </nav>
