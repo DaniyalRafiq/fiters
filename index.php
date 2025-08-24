@@ -372,12 +372,44 @@
         </div>
     </section>
     <!-- Portfolio End -->
-
+    <!-- Let's Deiscuss -->
+    <section class="deiscuss">
+        <div class="container">
+            <div class="deiscuss-content">
+                <h4>Let’s Discuss Your Next <br>
+                    Construction Project Together.</h4>
+                <p>Got questions or need guidance? Our team is always ready to help you take the next step—whether it's a quick inquiry or a full project discussion.</p>
+                <div class="discuss-box">
+                    <div class="icon">
+                        <i class="ri-phone-fill"></i>
+                    </div>
+                    <div class="discuss-box-content">
+                        <span>Customer Support</span>
+                        <h4>(888) 4000-2424</h4>
+                    </div>
+                </div>
+                <div class="discuss-box">
+                    <div class="icon">
+                        <i class="ri-mail-fill"></i>
+                    </div>
+                    <div class="discuss-box-content">
+                        <span>Email Support</span>
+                        <h4>hello@growthlane.agency</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Let's Deiscuss End -->
     <!-- Testimonial -->
     <?php include "testimonial.php"
     ?>
     <!-- Testimonial End -->
 
+
+
+
+    <!-- Faq's -->
     <!-- section partner -->
     <?php //include "partners.php"
     ?>
