@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Home</title>
+    <title>About Us</title>
     <?php include 'links.php' ?>
 </head>
 
@@ -15,7 +15,7 @@
     <!-- End header -->
 
     <!-- section banner -->
-    <section class="hero-secion">
+    <section class="hero-secion about-us-hero ">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
@@ -23,7 +23,6 @@
                         <h1>Smarter Marketing, Faster <span>Growth</span> </h1>
                         <p>From startups to enterprises, we craft scalable strategies that <br> deliver real ROI.</p>
                         <button data-bs-target="#exampleModalToggle" data-bs-toggle="modal" class="btn btn-theme">Order Now</button>
-
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -41,6 +40,101 @@
                     </div>
                 </div>
             </div>
+
+        </div>
+
+    </section>
+    <!-- End section -->
+
+
+    <!-- About Us -->
+    <section class="about-us">
+        <div class="container">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-md-12 col-lg-6">
+                    <div class="about-us img-box">
+                        <img src="assets/images/about-us-img.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-12 col-lg-6">
+                    <div class="about-us-content">
+                        <div class="about-us-heading main-heading">
+                            <span>Who we are</span>
+                            <h2>Building Better Brands with Strategy, Data, and Heart.</h2>
+                            <p>Sem faucibus odio iaculis maximus nibh praesent. Turpis semper dignissim et elementum per luctus. Parturient fusce pulvinar penatibus sagittis tristique.</p>
+                        </div>
+                        <div class="about-us-check-wrapper">
+                            <ul>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                            </ul>
+                            <ul>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                            </ul>
+                            <ul>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                                <li>
+                                    <span><i class="ri-check-line"></i></span>
+                                    Data-Driven Strategy
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <div class="hero-card-main">
                 <div class="row justify-content-center">
                     <div class="col-lg-4 col-md-6">
@@ -84,6 +178,7 @@
                     </div>
                 </div>
             </div>
+
         </div>
         <div class="countries">
             <div class="our-services-heading">
@@ -187,7 +282,7 @@
             </div>
         </div>
     </section>
-    <!-- End section -->
+    <!-- About Us End -->
 
 
     <!-- Our Services -->
@@ -303,7 +398,7 @@
     <!-- Why Choose Us End -->
 
     <!-- Portfolio -->
-    <section class="portfolio home-port">
+    <!-- <section class="portfolio">
         <div class="container">
             <div class="main-heading">
                 <span>portfolio</span>
@@ -372,7 +467,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Portfolio End -->
     <!-- Let's Deiscuss -->
     <section class="deiscuss">
@@ -418,7 +513,7 @@
     <!-- end -->
 
     <!-- Get Quote Model -->
-    <?php include 'get-quote.php'
+    <?php  // include 'get-quote.php'
     ?>
     <!-- end -->
 
